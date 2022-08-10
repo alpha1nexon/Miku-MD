@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/FantoX001">
+   <a href="https://github.com/alpha1nexon">
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
      
 </p>
@@ -9,21 +9,21 @@
   Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
+  <a href="https://github.com/alpha1nexon/Miku-MD/fork">
+    <img src="https://img.shields.io/github/forks/alpha1nexon/Miku-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Miku-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
+  <a href="https://github.com/alpha1nexon/Miku-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/alpha1nexon/Miku-MD?style=social">
   </a>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
+  <a href="https://github.com/alpha1nexon/Miku-MD">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/alpha1nexon/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
-<a href="https://github.com/FantoX001">
-    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
+<a href="https://github.com/alpha1nexon">
+    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/alpha1nexon/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
 </br>
       
@@ -57,7 +57,7 @@
 ✧ The main motto of this project is to provide Beginner Devs a base without any limitations 😊.
 ✧ Check "Credits" section and Support Them too.
 
--regards FantoX001
+-regards alpha1nexon
 ```
 </br>
 
@@ -165,7 +165,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 ## ✧ Help Me:
-- [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to make me feel motivated.
+- [`Follow`](https://github.com/alpha1nexon/#follow) me on GitHub to make me feel motivated.
 - Give my project a ⭐ if you liked it.
 
      
